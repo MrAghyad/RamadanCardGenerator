@@ -2,5 +2,5 @@
 
 A simple python code to generate a card to celebrate Ramadan.
 
-Inline-style: 
+Demo: 
 ![alt text](https://github.com/MrAghyad/RamadanCardGenerator/blob/main/ramadan.gif?raw=true)
